@@ -5,7 +5,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  AWS_ACCOUNT_ID: 123456789012
+  AWS_ACCOUNT_ID: 206694716999
   ECR_REPOSITORY: fis-demo-app
   ECS_CLUSTER: fis-demo-cluster
   ECS_SERVICE: fis-demo-service
